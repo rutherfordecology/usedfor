@@ -13,10 +13,9 @@ the Inter Tight font from Google Fonts.
 
 ## Totals only
 
-Covenants are summed by regional council region and by the LCDB mapping date
-that shows them as registered, so no single covenant can be picked out. Groups
-of fewer than 5 covenants are left out (7 covenants). No covenant numbers or
-boundaries are in this repository.
+Covenants are summed by regional council region, covenant type and the LCDB
+mapping date that shows them as registered. No covenant numbers or boundaries
+are in this repository, but a group can be a single covenant.
 
 ## How it's made
 
