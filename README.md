@@ -3,9 +3,9 @@
 How land cover inside QEII National Trust open space covenants has changed
 between 1996 and 2023, by region, from the New Zealand Land Cover Database.
 
-**Live page:** https://rutherfordecology.github.io/covenant-land-cover/
+**Live page:** https://rutherfordecology.github.io/usedfor/
 
-Click a region on the map to see its covenants, pick a period, and tick land
+Pick a region from the Region menu to see its covenants, pick a period, and tick land
 cover types in the key to follow their pathways. The page is one
 self-contained `index.html`, with no other files and no network requests.
 
@@ -32,7 +32,7 @@ boundaries are in this repository.
 
 - Land Cover Database v6: Manaaki Whenua – Landcare Research, CC BY 4.0.
 - QEII open space covenants: QEII National Trust – Ngā Kairauhī Papa, CC BY 4.0.
-- Regional council boundaries 2025 and 2023 (clipped): Stats NZ – Tatauranga
+- Regional council boundaries 2025: Stats NZ – Tatauranga
   Aotearoa, CC BY 4.0.
 
 Made by Rutherford Ecology.
