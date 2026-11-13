@@ -5,8 +5,9 @@ between 1996 and 2023, by region, from the New Zealand Land Cover Database.
 
 **Live page:** https://rutherfordecology.github.io/usedfor/
 
-Pick a region from the Region menu to see its covenants, pick a period, and tick land
-cover types in the key to follow their pathways. The page is one
+Pick a region from the Region menu to see its covenants, pick a period, and use the land
+cover key (every type starts ticked; untick Select all, then tick a type) to
+follow its pathways. The page is one
 self-contained `index.html`, with no other files and no network requests.
 
 ## Totals only
