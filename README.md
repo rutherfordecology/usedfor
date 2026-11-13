@@ -1,4 +1,4 @@
-# Covenant land cover change
+# Usedfor: covenant land cover change
 
 How land cover inside QEII National Trust open space covenants has changed
 between 1996 and 2023, by region, from the New Zealand Land Cover Database.
@@ -8,7 +8,8 @@ between 1996 and 2023, by region, from the New Zealand Land Cover Database.
 Tick one or more regions in the Region menu to see their covenants, pick a period, and use the land
 cover key (every type starts ticked; untick Select all, then tick a type) to
 follow its pathways. The page is one
-self-contained `index.html`, with no other files and no network requests.
+self-contained `index.html`, with no other files; its only network request is
+the Inter Tight font from Google Fonts.
 
 ## Totals only
 
@@ -36,4 +37,4 @@ boundaries are in this repository.
 - Regional council boundaries 2025: Stats NZ – Tatauranga
   Aotearoa, CC BY 4.0.
 
-Made by Rutherford Ecology.
+Usedfor, made by Rutherford Ecology.
